@@ -15,4 +15,3 @@ A React + TypeScript web application to help users with bad credit improve their
 2. Run `npm run dev`
 3. Open the local URL displayed in your terminal
 
-_You can also upload/import this project into Kiro.dev or any online Node.js workspace!_
